@@ -1,0 +1,1 @@
+Add your CBW seal as logo.png and a cloud image as heavenly-clouds.jpg. Upload all files to GitHub and enable GitHub Pages.

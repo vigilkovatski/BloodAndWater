@@ -1,0 +1,10 @@
+
+body{margin:0;font-family:Georgia,serif;background:#0b0b0b;color:#f0f0f0;line-height:1.7}
+nav{background:#111;padding:16px;position:sticky;top:0}
+nav a{color:#d4b06a;text-decoration:none;margin-right:18px}
+.hero{padding:140px 20px;text-align:center;background:linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.6)),url('heavenly-clouds.jpg') center/cover}
+.container{max-width:1100px;margin:auto;padding:60px 20px}
+.card{background:#161616;padding:24px;border-radius:10px;margin:20px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+h1,h2,h3{color:#d4b06a}
+footer{text-align:center;padding:40px;border-top:1px solid #333}
