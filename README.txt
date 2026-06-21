@@ -1,0 +1,1 @@
+Upload to GitHub Pages. Add logo.png, heavenly-clouds.jpg, angelic.mp3, and gallery images.
